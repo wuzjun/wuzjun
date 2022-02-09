@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+我是 Miraggio,一名在校学生。  
+
+在 2020-2021 年担任 GCU 机器人战队电控组长，参加 RoboMaster 等赛事。对嵌入式领域的知识充满兴趣。
+
+**以及：**
+- ⚡ 想从事嵌入式开发
+- 🌱 目前正在学习 STM32、Linux等
+- 👯 在寻找志同道合的朋友
