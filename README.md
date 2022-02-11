@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-我是 Miraggio,一名在校学生。  
+我是 Miraggio，一名在校学生。  
 
 在 2020-2021 年担任 GCU 机器人战队电控组长，参加 RoboMaster 等赛事。对嵌入式领域的知识充满兴趣。
 
